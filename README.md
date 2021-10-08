@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nixon323
+- 👀 I’m interested in Machine Learning, AI and Biig Data technologies
+- 🌱 I’m currently learning Big Data and Business Analytics at IE University
+- 💞️ I’m looking to collaborate on Jupyter notebook projects
+- 📫 How to reach me: nicolas.marechal@student.ie.edu 
